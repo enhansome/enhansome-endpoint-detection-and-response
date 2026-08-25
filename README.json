@@ -12,10 +12,10 @@
             "archived": false,
             "id": 40556106,
             "language": "C++",
-            "last_commit": "2026-08-25T02:20:51Z",
+            "last_commit": "2026-08-25T06:30:14Z",
             "owner": "wazuh",
             "repo": "wazuh",
-            "stars": 16666
+            "stars": 16671
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T14:38:46Z",
             "owner": "zeek",
             "repo": "zeek",
-            "stars": 7902
+            "stars": 7903
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 8077402,
             "language": "PHP",
-            "last_commit": "2026-08-24T08:55:01Z",
+            "last_commit": "2026-08-25T06:28:52Z",
             "owner": "MISP",
             "repo": "MISP",
-            "stars": 6486
+            "stars": 6487
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 126576769,
             "language": "Go",
-            "last_commit": "2026-08-25T02:17:05Z",
+            "last_commit": "2026-08-25T05:09:18Z",
             "owner": "Velocidex",
             "repo": "velociraptor",
             "stars": 4201
@@ -309,7 +309,7 @@
                 "archived": false,
                 "id": 44610249,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:04:52Z",
+                "last_commit": "2026-08-25T06:23:05Z",
                 "owner": "zentralopensource",
                 "repo": "zentral",
                 "stars": 878
@@ -397,7 +397,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:29:05.511Z",
+    "last_updated": "2026-08-25T06:30:25.674Z",
     "original_repository": "shadawck/awesome-endpoint-detection-and-response",
     "original_repository_id": 246801215,
     "original_repository_sha": "fe647cbe3e5b90d48adc17f40e709598545d48d0",
