@@ -12,10 +12,10 @@
             "archived": false,
             "id": 40556106,
             "language": "C++",
-            "last_commit": "2026-08-25T06:30:14Z",
+            "last_commit": "2026-08-26T02:17:49Z",
             "owner": "wazuh",
             "repo": "wazuh",
-            "stars": 16671
+            "stars": 16678
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 4930716,
             "language": "C++",
-            "last_commit": "2026-08-24T14:38:46Z",
+            "last_commit": "2026-08-25T22:20:42Z",
             "owner": "zeek",
             "repo": "zeek",
-            "stars": 7903
+            "stars": 7906
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 8077402,
             "language": "PHP",
-            "last_commit": "2026-08-25T06:28:52Z",
+            "last_commit": "2026-08-25T13:41:51Z",
             "owner": "MISP",
             "repo": "MISP",
-            "stars": 6487
+            "stars": 6488
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2022-05-03T16:17:48Z",
             "owner": "cuckoosandbox",
             "repo": "cuckoo",
-            "stars": 5963
+            "stars": 5964
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-25T05:09:18Z",
             "owner": "Velocidex",
             "repo": "velociraptor",
-            "stars": 4201
+            "stars": 4205
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-03-31T02:20:14Z",
             "owner": "ION28",
             "repo": "BLUESPAWN",
-            "stars": 1333
+            "stars": 1334
           }
         },
         {
@@ -192,10 +192,10 @@
             "archived": false,
             "id": 1146898804,
             "language": "Rust",
-            "last_commit": "2026-08-24T20:58:27Z",
+            "last_commit": "2026-08-25T20:12:13Z",
             "owner": "Karib0u",
             "repo": "rustinel",
-            "stars": 455
+            "stars": 457
           }
         },
         {
@@ -309,7 +309,7 @@
                 "archived": false,
                 "id": 44610249,
                 "language": "Python",
-                "last_commit": "2026-08-25T06:23:05Z",
+                "last_commit": "2026-08-25T20:13:17Z",
                 "owner": "zentralopensource",
                 "repo": "zentral",
                 "stars": 878
@@ -354,7 +354,7 @@
                 "archived": false,
                 "id": 90072296,
                 "language": "Go",
-                "last_commit": "2026-08-24T19:41:28Z",
+                "last_commit": "2026-08-25T20:52:43Z",
                 "owner": "kolide",
                 "repo": "launcher",
                 "stars": 542
@@ -397,7 +397,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:30:25.674Z",
+    "last_updated": "2026-08-26T03:35:57.921Z",
     "original_repository": "shadawck/awesome-endpoint-detection-and-response",
     "original_repository_id": 246801215,
     "original_repository_sha": "fe647cbe3e5b90d48adc17f40e709598545d48d0",
