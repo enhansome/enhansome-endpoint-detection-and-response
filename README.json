@@ -12,7 +12,7 @@
             "archived": false,
             "id": 40556106,
             "language": "C++",
-            "last_commit": "2026-08-27T11:40:53Z",
+            "last_commit": "2026-08-27T12:51:23Z",
             "owner": "wazuh",
             "repo": "wazuh",
             "stars": 16696
@@ -309,7 +309,7 @@
                 "archived": false,
                 "id": 44610249,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:19:40Z",
+                "last_commit": "2026-08-27T12:15:56Z",
                 "owner": "zentralopensource",
                 "repo": "zentral",
                 "stars": 879
@@ -397,7 +397,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:42:49.653Z",
+    "last_updated": "2026-08-27T13:04:25.890Z",
     "original_repository_info": {
       "archived": false,
       "id": 246801215,
