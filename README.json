@@ -12,10 +12,10 @@
             "archived": false,
             "id": 40556106,
             "language": "C++",
-            "last_commit": "2026-08-26T02:17:49Z",
+            "last_commit": "2026-08-27T11:40:53Z",
             "owner": "wazuh",
             "repo": "wazuh",
-            "stars": 16678
+            "stars": 16696
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 4930716,
             "language": "C++",
-            "last_commit": "2026-08-25T22:20:42Z",
+            "last_commit": "2026-08-26T23:18:38Z",
             "owner": "zeek",
             "repo": "zeek",
-            "stars": 7906
+            "stars": 7909
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 8077402,
             "language": "PHP",
-            "last_commit": "2026-08-25T13:41:51Z",
+            "last_commit": "2026-08-26T13:08:05Z",
             "owner": "MISP",
             "repo": "MISP",
-            "stars": 6488
+            "stars": 6490
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2022-05-03T16:17:48Z",
             "owner": "cuckoosandbox",
             "repo": "cuckoo",
-            "stars": 5964
+            "stars": 5965
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-25T05:09:18Z",
             "owner": "Velocidex",
             "repo": "velociraptor",
-            "stars": 4205
+            "stars": 4208
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-05-23T23:36:21Z",
             "owner": "ComodoSecurity",
             "repo": "openedr",
-            "stars": 2715
+            "stars": 2717
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2023-02-25T03:59:03Z",
             "owner": "0xrawsec",
             "repo": "whids",
-            "stars": 1311
+            "stars": 1312
           }
         },
         {
@@ -192,10 +192,10 @@
             "archived": false,
             "id": 1146898804,
             "language": "Rust",
-            "last_commit": "2026-08-25T20:12:13Z",
+            "last_commit": "2026-08-26T20:22:37Z",
             "owner": "Karib0u",
             "repo": "rustinel",
-            "stars": 457
+            "stars": 458
           }
         },
         {
@@ -297,7 +297,7 @@
                 "last_commit": "2025-09-08T17:22:41Z",
                 "owner": "palantir",
                 "repo": "osquery-configuration",
-                "stars": 898
+                "stars": 899
               }
             },
             {
@@ -309,10 +309,10 @@
                 "archived": false,
                 "id": 44610249,
                 "language": "Python",
-                "last_commit": "2026-08-25T20:13:17Z",
+                "last_commit": "2026-08-27T11:19:40Z",
                 "owner": "zentralopensource",
                 "repo": "zentral",
-                "stars": 878
+                "stars": 879
               }
             },
             {
@@ -327,7 +327,7 @@
                 "last_commit": "2023-05-11T23:41:53Z",
                 "owner": "teoseller",
                 "repo": "osquery-attck",
-                "stars": 810
+                "stars": 811
               }
             },
             {
@@ -397,9 +397,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:35:57.921Z",
-    "original_repository": "shadawck/awesome-endpoint-detection-and-response",
-    "original_repository_id": 246801215,
+    "last_updated": "2026-08-27T11:42:49.653Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 246801215,
+      "language": null,
+      "last_commit": "2026-07-10T09:57:02Z",
+      "owner": "shadawck",
+      "repo": "awesome-endpoint-detection-and-response",
+      "stars": 125
+    },
     "original_repository_sha": "fe647cbe3e5b90d48adc17f40e709598545d48d0",
     "enhanced_repository": "enhansome/enhansome-endpoint-detection-and-response",
     "enhanced_repository_description": null,
