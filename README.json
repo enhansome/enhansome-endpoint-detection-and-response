@@ -12,11 +12,12 @@
             "archived": false,
             "id": 40556106,
             "language": "C++",
-            "last_commit": "2026-08-27T12:51:23Z",
+            "last_commit": "2026-08-28T14:18:17Z",
             "owner": "wazuh",
             "repo": "wazuh",
-            "stars": 16696
-          }
+            "stars": 16703
+          },
+          "first_seen": "2026-08-28T14:34:26.006Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 4930716,
             "language": "C++",
-            "last_commit": "2026-08-26T23:18:38Z",
+            "last_commit": "2026-08-28T13:50:06Z",
             "owner": "zeek",
             "repo": "zeek",
-            "stars": 7909
-          }
+            "stars": 7915
+          },
+          "first_seen": "2026-08-28T14:34:26.006Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "MISP",
             "repo": "MISP",
             "stars": 6490
-          }
+          },
+          "first_seen": "2026-08-28T14:34:26.006Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "cuckoosandbox",
             "repo": "cuckoo",
             "stars": 5965
-          }
+          },
+          "first_seen": "2026-08-28T14:34:26.006Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "google",
             "repo": "grr",
             "stars": 5088
-          }
+          },
+          "first_seen": "2026-08-28T14:34:26.006Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2026-08-25T05:09:18Z",
             "owner": "Velocidex",
             "repo": "velociraptor",
-            "stars": 4208
-          }
+            "stars": 4211
+          },
+          "first_seen": "2026-08-28T14:34:26.006Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "ComodoSecurity",
             "repo": "openedr",
             "stars": 2717
-          }
+          },
+          "first_seen": "2026-08-28T14:34:26.006Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "bytedance",
             "repo": "Elkeid",
             "stars": 2672
-          }
+          },
+          "first_seen": "2026-08-28T14:34:26.006Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "rabbitstack",
             "repo": "fibratus",
             "stars": 2537
-          }
+          },
+          "first_seen": "2026-08-28T14:34:26.006Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "ION28",
             "repo": "BLUESPAWN",
             "stars": 1334
-          }
+          },
+          "first_seen": "2026-08-28T14:34:26.006Z"
         },
         {
           "node_type": "item",
@@ -165,8 +175,9 @@
             "last_commit": "2023-02-25T03:59:03Z",
             "owner": "0xrawsec",
             "repo": "whids",
-            "stars": 1312
-          }
+            "stars": 1313
+          },
+          "first_seen": "2026-08-28T14:34:26.006Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "mozilla",
             "repo": "mig",
             "stars": 1202
-          }
+          },
+          "first_seen": "2026-08-28T14:34:26.006Z"
         },
         {
           "node_type": "item",
@@ -192,11 +204,12 @@
             "archived": false,
             "id": 1146898804,
             "language": "Rust",
-            "last_commit": "2026-08-26T20:22:37Z",
+            "last_commit": "2026-08-27T19:45:19Z",
             "owner": "Karib0u",
             "repo": "rustinel",
             "stars": 458
-          }
+          },
+          "first_seen": "2026-08-28T14:34:26.006Z"
         },
         {
           "node_type": "group",
@@ -216,7 +229,8 @@
                 "owner": "TheHive-Project",
                 "repo": "TheHive",
                 "stars": 3947
-              }
+              },
+              "first_seen": "2026-08-28T14:34:26.006Z"
             },
             {
               "node_type": "item",
@@ -231,7 +245,8 @@
                 "owner": "TheHive-Project",
                 "repo": "Cortex",
                 "stars": 1618
-              }
+              },
+              "first_seen": "2026-08-28T14:34:26.006Z"
             },
             {
               "node_type": "item",
@@ -246,7 +261,8 @@
                 "owner": "TheHive-Project",
                 "repo": "Hippocampe",
                 "stars": 169
-              }
+              },
+              "first_seen": "2026-08-28T14:34:26.006Z"
             }
           ]
         },
@@ -268,7 +284,8 @@
                 "owner": "airbnb",
                 "repo": "streamalert",
                 "stars": 2889
-              }
+              },
+              "first_seen": "2026-08-28T14:34:26.006Z"
             },
             {
               "node_type": "item",
@@ -283,7 +300,8 @@
                 "owner": "kolide",
                 "repo": "fleet",
                 "stars": 1098
-              }
+              },
+              "first_seen": "2026-08-28T14:34:26.006Z"
             },
             {
               "node_type": "item",
@@ -297,8 +315,9 @@
                 "last_commit": "2025-09-08T17:22:41Z",
                 "owner": "palantir",
                 "repo": "osquery-configuration",
-                "stars": 899
-              }
+                "stars": 900
+              },
+              "first_seen": "2026-08-28T14:34:26.006Z"
             },
             {
               "node_type": "item",
@@ -309,11 +328,12 @@
                 "archived": false,
                 "id": 44610249,
                 "language": "Python",
-                "last_commit": "2026-08-27T12:15:56Z",
+                "last_commit": "2026-08-28T14:13:39Z",
                 "owner": "zentralopensource",
                 "repo": "zentral",
                 "stars": 879
-              }
+              },
+              "first_seen": "2026-08-28T14:34:26.006Z"
             },
             {
               "node_type": "item",
@@ -328,7 +348,8 @@
                 "owner": "teoseller",
                 "repo": "osquery-attck",
                 "stars": 811
-              }
+              },
+              "first_seen": "2026-08-28T14:34:26.006Z"
             },
             {
               "node_type": "item",
@@ -343,7 +364,8 @@
                 "owner": "mwielgoszewski",
                 "repo": "doorman",
                 "stars": 621
-              }
+              },
+              "first_seen": "2026-08-28T14:34:26.006Z"
             },
             {
               "node_type": "item",
@@ -354,11 +376,12 @@
                 "archived": false,
                 "id": 90072296,
                 "language": "Go",
-                "last_commit": "2026-08-25T20:52:43Z",
+                "last_commit": "2026-08-27T20:41:39Z",
                 "owner": "kolide",
                 "repo": "launcher",
-                "stars": 542
-              }
+                "stars": 541
+              },
+              "first_seen": "2026-08-28T14:34:26.006Z"
             },
             {
               "node_type": "item",
@@ -373,7 +396,8 @@
                 "owner": "osquery",
                 "repo": "osquery-go",
                 "stars": 433
-              }
+              },
+              "first_seen": "2026-08-28T14:34:26.006Z"
             },
             {
               "node_type": "item",
@@ -387,8 +411,9 @@
                 "last_commit": "2024-07-24T03:46:32Z",
                 "owner": "osquery",
                 "repo": "osquery-python",
-                "stars": 308
-              }
+                "stars": 309
+              },
+              "first_seen": "2026-08-28T14:34:26.006Z"
             }
           ]
         }
@@ -397,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T13:04:25.890Z",
+    "last_updated": "2026-08-28T14:34:26.006Z",
     "original_repository_info": {
       "archived": false,
       "id": 246801215,
