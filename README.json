@@ -19,7 +19,7 @@
             "open_issues": 3007,
             "owner": "wazuh",
             "repo": "wazuh",
-            "stars": 16710,
+            "stars": 16712,
             "topics": [
               "cloud-security",
               "compliance",
@@ -175,7 +175,7 @@
             "open_issues": 75,
             "owner": "Velocidex",
             "repo": "velociraptor",
-            "stars": 4212,
+            "stars": 4213,
             "topics": [
               "digital-forensics",
               "endpoint-discovery",
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:56:04.946Z",
+    "last_updated": "2026-08-29T09:21:39.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of tool you need to have in your Endpoint Detection and Response arsenal",
