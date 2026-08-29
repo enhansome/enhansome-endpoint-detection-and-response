@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+            "homepage": "https://wazuh.com/",
             "id": 40556106,
             "language": "C++",
-            "last_commit": "2026-08-28T14:18:17Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:31:35Z",
+            "open_issues": 3007,
             "owner": "wazuh",
             "repo": "wazuh",
-            "stars": 16703
+            "stars": 16710,
+            "topics": [
+              "cloud-security",
+              "compliance",
+              "configuration-assessement",
+              "container-security",
+              "cybersecurity",
+              "file-integrity-monitoring",
+              "incident-response",
+              "infosec",
+              "log-analysis",
+              "malware-detection",
+              "pci-dss",
+              "security",
+              "security-audit",
+              "security-automation",
+              "security-hardening",
+              "security-tools",
+              "siem",
+              "vulnerability-detection",
+              "wazuh",
+              "xdr"
+            ]
           },
           "first_seen": "2026-08-28T14:34:26.006Z"
         },
@@ -26,12 +52,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.",
+            "homepage": "https://www.zeek.org",
             "id": 4930716,
             "language": "C++",
-            "last_commit": "2026-08-28T13:50:06Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:15:20Z",
+            "open_issues": 258,
             "owner": "zeek",
             "repo": "zeek",
-            "stars": 7915
+            "stars": 7917,
+            "topics": [
+              "bro",
+              "dfir",
+              "ndr",
+              "network-monitoring",
+              "nsm",
+              "pcap",
+              "security",
+              "zeek"
+            ]
           },
           "first_seen": "2026-08-28T14:34:26.006Z"
         },
@@ -42,12 +82,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MISP (core software) - Open Source Threat Intelligence and Sharing Platform",
+            "homepage": "https://www.misp-project.org/",
             "id": 8077402,
             "language": "PHP",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-26T13:08:05Z",
+            "open_issues": 2899,
             "owner": "MISP",
             "repo": "MISP",
-            "stars": 6490
+            "stars": 6490,
+            "topics": [
+              "cti",
+              "cybersecurity",
+              "fraud-detection",
+              "fraud-management",
+              "fraud-prevention",
+              "information-exchange",
+              "information-security",
+              "information-sharing",
+              "intelligence",
+              "malware-analysis",
+              "misp",
+              "security",
+              "stix",
+              "threat-analysis",
+              "threat-hunting",
+              "threat-intel",
+              "threat-intelligence",
+              "threat-intelligence-platform",
+              "threat-sharing",
+              "threatintel"
+            ]
           },
           "first_seen": "2026-08-28T14:34:26.006Z"
         },
@@ -58,12 +124,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Cuckoo Sandbox is an automated dynamic malware analysis system",
+            "homepage": "http://www.cuckoosandbox.org",
             "id": 2341302,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2022-05-03T16:17:48Z",
+            "open_issues": 959,
             "owner": "cuckoosandbox",
             "repo": "cuckoo",
-            "stars": 5965
+            "stars": 5965,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:26.006Z"
         },
@@ -74,12 +145,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GRR Rapid Response: remote live forensics for incident response",
+            "homepage": "https://grr-doc.readthedocs.io/",
             "id": 14909673,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-12T12:52:29Z",
+            "open_issues": 191,
             "owner": "google",
             "repo": "grr",
-            "stars": 5088
+            "stars": 5088,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:26.006Z"
         },
@@ -90,12 +166,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Digging Deeper....",
+            "homepage": "https://docs.velociraptor.app/",
             "id": 126576769,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T05:09:18Z",
+            "open_issues": 75,
             "owner": "Velocidex",
             "repo": "velociraptor",
-            "stars": 4211
+            "stars": 4212,
+            "topics": [
+              "digital-forensics",
+              "endpoint-discovery",
+              "endpoint-protection",
+              "endpoint-security",
+              "forensics-investigations",
+              "incident-response",
+              "inventory-management"
+            ]
           },
           "first_seen": "2026-08-28T14:34:26.006Z"
         },
@@ -106,12 +195,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open EDR public repository",
+            "homepage": null,
             "id": 308137876,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-23T23:36:21Z",
+            "open_issues": 37,
             "owner": "ComodoSecurity",
             "repo": "openedr",
-            "stars": 2717
+            "stars": 2716,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:26.006Z"
         },
@@ -122,12 +216,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elkeid is an open source solution that can meet the security requirements of various workloads such as hosts, containers and K8s, and serverless. It is derived from ByteDance's internal best practices.",
+            "homepage": "https://elkeid.bytedance.com",
             "id": 322475728,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-05-11T03:51:11Z",
+            "open_issues": 60,
             "owner": "bytedance",
             "repo": "Elkeid",
-            "stars": 2672
+            "stars": 2672,
+            "topics": [
+              "cwpp",
+              "edr",
+              "hids",
+              "linux-security",
+              "rasp",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T14:34:26.006Z"
         },
@@ -138,12 +244,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Security sensor for realtime threat detection and protection",
+            "homepage": "https://www.fibratus.io",
             "id": 54714794,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-19T16:42:36Z",
+            "open_issues": 42,
             "owner": "rabbitstack",
             "repo": "fibratus",
-            "stars": 2537
+            "stars": 2537,
+            "topics": [
+              "blue-team",
+              "detection-engineering",
+              "endpoint-detection-response",
+              "endpoint-security",
+              "etw",
+              "forencics",
+              "instrumentation",
+              "malware-detection",
+              "mitre-attack",
+              "purple-team",
+              "red-team",
+              "security",
+              "security-tools",
+              "threat-detection",
+              "threat-hunting",
+              "windows",
+              "windows-kernel",
+              "windows-security",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T14:34:26.006Z"
         },
@@ -154,12 +285,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Active Defense and EDR software to empower Blue Teams",
+            "homepage": null,
             "id": 189113067,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-31T02:20:14Z",
+            "open_issues": 31,
             "owner": "ION28",
             "repo": "BLUESPAWN",
-            "stars": 1334
+            "stars": 1335,
+            "topics": [
+              "active-defense",
+              "anti-virus",
+              "blue-team",
+              "edr",
+              "mitre-attack",
+              "security",
+              "security-tools",
+              "threat-hunting",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T14:34:26.006Z"
         },
@@ -170,12 +316,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source EDR for Windows",
+            "homepage": "https://rawsec.lu",
             "id": 118642658,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2023-02-25T03:59:03Z",
+            "open_issues": 20,
             "owner": "0xrawsec",
             "repo": "whids",
-            "stars": 1313
+            "stars": 1313,
+            "topics": [
+              "dfir",
+              "edr",
+              "ids",
+              "sysmon",
+              "threat-hunting",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T14:34:26.006Z"
         },
@@ -186,12 +344,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Distributed & real time digital forensics at the speed of the cloud",
+            "homepage": "http://mig.mozilla.org/",
             "id": 12719968,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2019-09-13T23:40:11Z",
+            "open_issues": 71,
             "owner": "mozilla",
             "repo": "mig",
-            "stars": 1202
+            "stars": 1202,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:26.006Z"
         },
@@ -202,12 +365,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source cross-platform endpoint detection engine for Windows, macOS, and Linux using ETW, ESF, eBPF, Sigma, YARA, IOCs, and ECS NDJSON alerts.",
+            "homepage": "https://docs.rustinel.io",
             "id": 1146898804,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T19:45:19Z",
+            "open_issues": 63,
             "owner": "Karib0u",
             "repo": "rustinel",
-            "stars": 458
+            "stars": 458,
+            "topics": [
+              "blue-team",
+              "detection-engineering",
+              "ebpf",
+              "edr",
+              "endpoint-detection",
+              "endpoint-security",
+              "etw",
+              "incident-response",
+              "linux",
+              "linux-security",
+              "malware-detection",
+              "rust",
+              "security-monitoring",
+              "security-tools",
+              "siem",
+              "sigma",
+              "sysmon",
+              "threat-detection",
+              "windows-security",
+              "yara"
+            ]
           },
           "first_seen": "2026-08-28T14:34:26.006Z"
         },
@@ -223,12 +412,36 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "TheHive is a Collaborative Case Management Platform, now distributed as a commercial version",
+                "homepage": "https://strangebee.com/",
                 "id": 72767327,
                 "language": "Scala",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-07-25T13:57:27Z",
+                "open_issues": 834,
                 "owner": "TheHive-Project",
                 "repo": "TheHive",
-                "stars": 3947
+                "stars": 3947,
+                "topics": [
+                  "analyzer",
+                  "api",
+                  "cortex",
+                  "dfir",
+                  "digital-forensics",
+                  "free",
+                  "incident-management",
+                  "incident-response",
+                  "incident-response-tooling",
+                  "investigations",
+                  "iocs",
+                  "misp",
+                  "orchestration",
+                  "platform",
+                  "rest",
+                  "scala",
+                  "security-incidents",
+                  "thehive"
+                ]
               },
               "first_seen": "2026-08-28T14:34:26.006Z"
             },
@@ -239,12 +452,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cortex: a Powerful Observable Analysis and Active Response Engine",
+                "homepage": "https://strangebee.com/cortex/",
                 "id": 78524793,
                 "language": "Scala",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-06-30T09:01:11Z",
+                "open_issues": 175,
                 "owner": "TheHive-Project",
                 "repo": "Cortex",
-                "stars": 1618
+                "stars": 1618,
+                "topics": [
+                  "analysis",
+                  "analyzer",
+                  "api",
+                  "cortex",
+                  "cyber-threat-intelligence",
+                  "dfir",
+                  "digital-forensics",
+                  "engine",
+                  "free",
+                  "free-software",
+                  "incident-response",
+                  "iocs",
+                  "observable",
+                  "open-source",
+                  "python",
+                  "response",
+                  "rest",
+                  "scala",
+                  "security-incidents",
+                  "thehive"
+                ]
               },
               "first_seen": "2026-08-28T14:34:26.006Z"
             },
@@ -255,12 +494,28 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Threat Feed Aggregation, Made Easy",
+                "homepage": "https://thehive-project.org",
                 "id": 72828565,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2020-07-13T13:13:07Z",
+                "open_issues": 28,
                 "owner": "TheHive-Project",
                 "repo": "Hippocampe",
-                "stars": 169
+                "stars": 169,
+                "topics": [
+                  "aggregator",
+                  "feed",
+                  "free",
+                  "free-software",
+                  "intel",
+                  "open-source",
+                  "python",
+                  "thehive",
+                  "threat-score",
+                  "threatintel"
+                ]
               },
               "first_seen": "2026-08-28T14:34:26.006Z"
             }
@@ -278,12 +533,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.",
+                "homepage": "https://streamalert.io",
                 "id": 79683936,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-23T17:15:34Z",
+                "open_issues": 90,
                 "owner": "airbnb",
                 "repo": "streamalert",
-                "stars": 2889
+                "stars": 2889,
+                "topics": [
+                  "analysis",
+                  "aws",
+                  "kinesis",
+                  "lambda",
+                  "rules",
+                  "security",
+                  "serverless",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T14:34:26.006Z"
             },
@@ -294,12 +563,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A flexible control server for osquery fleets",
+                "homepage": "https://kolide.com/fleet",
                 "id": 64099814,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2020-12-15T15:03:21Z",
+                "open_issues": 110,
                 "owner": "kolide",
                 "repo": "fleet",
-                "stars": 1098
+                "stars": 1098,
+                "topics": [
+                  "hacktoberfest",
+                  "host-instrumentation",
+                  "infosec",
+                  "macadmin",
+                  "osquery",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T14:34:26.006Z"
             },
@@ -310,12 +591,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A repository for using osquery for incident detection and response",
+                "homepage": null,
                 "id": 110026610,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2025-09-08T17:22:41Z",
+                "open_issues": 7,
                 "owner": "palantir",
                 "repo": "osquery-configuration",
-                "stars": 900
+                "stars": 900,
+                "topics": [
+                  "detection",
+                  "incident-response",
+                  "information-security",
+                  "octo-correct-managed",
+                  "osquery"
+                ]
               },
               "first_seen": "2026-08-28T14:34:26.006Z"
             },
@@ -326,12 +618,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zentral is a control plane for secure, observable Apple endpoints in enterprises. Configure, observe, and enforce the desired state of every Apple endpoint. Manage that desired state as code through GitOps and Terraform.",
+                "homepage": "https://www.zentral.com",
                 "id": 44610249,
                 "language": "Python",
-                "last_commit": "2026-08-28T14:13:39Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T23:07:13Z",
+                "open_issues": 38,
                 "owner": "zentralopensource",
                 "repo": "zentral",
-                "stars": 879
+                "stars": 879,
+                "topics": [
+                  "apple-mdm",
+                  "config-as-code",
+                  "elasticsearch",
+                  "endpoint-management",
+                  "endpoint-security",
+                  "events",
+                  "gitops",
+                  "inventory",
+                  "jamf",
+                  "macos",
+                  "mdm",
+                  "munki",
+                  "osquery",
+                  "santa",
+                  "splunk",
+                  "sumologic",
+                  "terraform",
+                  "unified-view"
+                ]
               },
               "first_seen": "2026-08-28T14:34:26.006Z"
             },
@@ -342,12 +658,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mapping the MITRE ATT&CK Matrix with Osquery",
+                "homepage": null,
                 "id": 142977179,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-11T23:41:53Z",
+                "open_issues": 6,
                 "owner": "teoseller",
                 "repo": "osquery-attck",
-                "stars": 811
+                "stars": 811,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:26.006Z"
             },
@@ -358,12 +679,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "an osquery fleet manager",
+                "homepage": null,
                 "id": 56880352,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-08T01:31:05Z",
+                "open_issues": 29,
                 "owner": "mwielgoszewski",
                 "repo": "doorman",
-                "stars": 621
+                "stars": 621,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:26.006Z"
             },
@@ -374,12 +700,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Osquery launcher, autoupdater, and packager",
+                "homepage": "https://kolide.com/launcher",
                 "id": 90072296,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T20:41:39Z",
+                "open_issues": 61,
                 "owner": "kolide",
                 "repo": "launcher",
-                "stars": 541
+                "stars": 541,
+                "topics": [
+                  "devops",
+                  "go-kit",
+                  "golang",
+                  "grpc",
+                  "hacktoberfest",
+                  "host-instrumentation",
+                  "osquery",
+                  "sysadmin"
+                ]
               },
               "first_seen": "2026-08-28T14:34:26.006Z"
             },
@@ -390,12 +730,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go bindings for osquery",
+                "homepage": null,
                 "id": 90204769,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-06-30T17:36:15Z",
+                "open_issues": 10,
                 "owner": "osquery",
                 "repo": "osquery-go",
-                "stars": 433
+                "stars": 433,
+                "topics": [
+                  "golang",
+                  "osquery",
+                  "thrift"
+                ]
               },
               "first_seen": "2026-08-28T14:34:26.006Z"
             },
@@ -406,12 +755,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python bindings for osquery's Thrift API",
+                "homepage": null,
                 "id": 34819313,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-24T03:46:32Z",
+                "open_issues": 17,
                 "owner": "osquery",
                 "repo": "osquery-python",
-                "stars": 309
+                "stars": 309,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:26.006Z"
             }
@@ -422,15 +776,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:34:26.006Z",
+    "last_updated": "2026-08-29T04:56:04.946Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Collection of tool you need to have in your Endpoint Detection and Response arsenal",
+      "homepage": null,
       "id": 246801215,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-07-10T09:57:02Z",
+      "open_issues": 2,
       "owner": "shadawck",
       "repo": "awesome-endpoint-detection-and-response",
-      "stars": 125
+      "stars": 125,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "edr",
+        "endpoint",
+        "endpoint-protection",
+        "endpoint-security",
+        "incident-response"
+      ]
     },
     "original_repository_sha": "fe647cbe3e5b90d48adc17f40e709598545d48d0",
     "enhanced_repository": "enhansome/enhansome-endpoint-detection-and-response",
