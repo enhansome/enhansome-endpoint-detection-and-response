@@ -15,11 +15,11 @@
             "id": 40556106,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T08:11:17Z",
-            "open_issues": 3057,
+            "last_commit": "2026-09-07T07:13:31Z",
+            "open_issues": 3060,
             "owner": "wazuh",
             "repo": "wazuh",
-            "stars": 16781,
+            "stars": 16791,
             "topics": [
               "cloud-security",
               "compliance",
@@ -61,7 +61,7 @@
             "open_issues": 255,
             "owner": "zeek",
             "repo": "zeek",
-            "stars": 7941,
+            "stars": 7943,
             "topics": [
               "bro",
               "dfir",
@@ -88,10 +88,10 @@
             "language": "PHP",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-04T08:30:58Z",
-            "open_issues": 2907,
+            "open_issues": 2909,
             "owner": "MISP",
             "repo": "MISP",
-            "stars": 6503,
+            "stars": 6507,
             "topics": [
               "cti",
               "cybersecurity",
@@ -172,10 +172,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-09-05T02:14:53Z",
-            "open_issues": 73,
+            "open_issues": 74,
             "owner": "Velocidex",
             "repo": "velociraptor",
-            "stars": 4235,
+            "stars": 4237,
             "topics": [
               "digital-forensics",
               "endpoint-discovery",
@@ -370,8 +370,8 @@
             "id": 1146898804,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T20:03:20Z",
-            "open_issues": 56,
+            "last_commit": "2026-09-07T05:12:50Z",
+            "open_issues": 46,
             "owner": "Karib0u",
             "repo": "rustinel",
             "stars": 471,
@@ -421,7 +421,7 @@
                 "open_issues": 834,
                 "owner": "TheHive-Project",
                 "repo": "TheHive",
-                "stars": 3950,
+                "stars": 3949,
                 "topics": [
                   "analyzer",
                   "api",
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T07:17:40.523Z",
+    "last_updated": "2026-09-07T07:31:45.144Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of tool you need to have in your Endpoint Detection and Response arsenal",
