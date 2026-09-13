@@ -15,11 +15,11 @@
             "id": 40556106,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T01:39:23Z",
-            "open_issues": 3086,
+            "last_commit": "2026-09-13T02:51:07Z",
+            "open_issues": 3088,
             "owner": "wazuh",
             "repo": "wazuh",
-            "stars": 16842,
+            "stars": 16852,
             "topics": [
               "cloud-security",
               "compliance",
@@ -61,7 +61,7 @@
             "open_issues": 256,
             "owner": "zeek",
             "repo": "zeek",
-            "stars": 7959,
+            "stars": 7963,
             "topics": [
               "bro",
               "dfir",
@@ -91,7 +91,7 @@
             "open_issues": 2908,
             "owner": "MISP",
             "repo": "MISP",
-            "stars": 6521,
+            "stars": 6524,
             "topics": [
               "cti",
               "cybersecurity",
@@ -175,7 +175,7 @@
             "open_issues": 80,
             "owner": "Velocidex",
             "repo": "velociraptor",
-            "stars": 4242,
+            "stars": 4243,
             "topics": [
               "digital-forensics",
               "endpoint-discovery",
@@ -204,7 +204,7 @@
             "open_issues": 36,
             "owner": "ComodoSecurity",
             "repo": "openedr",
-            "stars": 2719,
+            "stars": 2718,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:26.006Z"
@@ -249,8 +249,8 @@
             "id": 54714794,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T18:10:08Z",
-            "open_issues": 45,
+            "last_commit": "2026-09-12T12:37:54Z",
+            "open_issues": 44,
             "owner": "rabbitstack",
             "repo": "fibratus",
             "stars": 2541,
@@ -294,7 +294,7 @@
             "open_issues": 31,
             "owner": "ION28",
             "repo": "BLUESPAWN",
-            "stars": 1336,
+            "stars": 1337,
             "topics": [
               "active-defense",
               "anti-virus",
@@ -370,11 +370,11 @@
             "id": 1146898804,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T04:55:11Z",
-            "open_issues": 62,
+            "last_commit": "2026-09-12T12:58:51Z",
+            "open_issues": 64,
             "owner": "Karib0u",
             "repo": "rustinel",
-            "stars": 481,
+            "stars": 482,
             "topics": [
               "blue-team",
               "detection-engineering",
@@ -461,7 +461,7 @@
                 "open_issues": 175,
                 "owner": "TheHive-Project",
                 "repo": "Cortex",
-                "stars": 1625,
+                "stars": 1626,
                 "topics": [
                   "analysis",
                   "analyzer",
@@ -623,7 +623,7 @@
                 "id": 44610249,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T20:28:32Z",
+                "last_commit": "2026-09-12T14:18:02Z",
                 "open_issues": 38,
                 "owner": "zentralopensource",
                 "repo": "zentral",
@@ -667,7 +667,7 @@
                 "open_issues": 6,
                 "owner": "teoseller",
                 "repo": "osquery-attck",
-                "stars": 811,
+                "stars": 812,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:26.006Z"
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T07:19:59.166Z",
+    "last_updated": "2026-09-13T07:38:24.578Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of tool you need to have in your Endpoint Detection and Response arsenal",
