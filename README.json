@@ -15,11 +15,11 @@
             "id": 40556106,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-19T01:59:42Z",
-            "open_issues": 3098,
+            "last_commit": "2026-09-20T04:02:09Z",
+            "open_issues": 3099,
             "owner": "wazuh",
             "repo": "wazuh",
-            "stars": 16930,
+            "stars": 16937,
             "topics": [
               "cloud-security",
               "compliance",
@@ -57,11 +57,11 @@
             "id": 4930716,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-19T03:05:19Z",
-            "open_issues": 259,
+            "last_commit": "2026-09-19T19:02:07Z",
+            "open_issues": 260,
             "owner": "zeek",
             "repo": "zeek",
-            "stars": 7971,
+            "stars": 7972,
             "topics": [
               "bro",
               "dfir",
@@ -154,7 +154,7 @@
             "open_issues": 191,
             "owner": "google",
             "repo": "grr",
-            "stars": 5088,
+            "stars": 5089,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:26.006Z"
@@ -175,7 +175,7 @@
             "open_issues": 72,
             "owner": "Velocidex",
             "repo": "velociraptor",
-            "stars": 4261,
+            "stars": 4262,
             "topics": [
               "digital-forensics",
               "endpoint-discovery",
@@ -249,7 +249,7 @@
             "id": 54714794,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T19:00:44Z",
+            "last_commit": "2026-09-19T12:06:18Z",
             "open_issues": 45,
             "owner": "rabbitstack",
             "repo": "fibratus",
@@ -461,7 +461,7 @@
                 "open_issues": 175,
                 "owner": "TheHive-Project",
                 "repo": "Cortex",
-                "stars": 1628,
+                "stars": 1629,
                 "topics": [
                   "analysis",
                   "analyzer",
@@ -600,7 +600,7 @@
                 "open_issues": 7,
                 "owner": "palantir",
                 "repo": "osquery-configuration",
-                "stars": 904,
+                "stars": 905,
                 "topics": [
                   "detection",
                   "incident-response",
@@ -623,8 +623,8 @@
                 "id": 44610249,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-19T03:56:49Z",
-                "open_issues": 38,
+                "last_commit": "2026-09-19T13:00:01Z",
+                "open_issues": 37,
                 "owner": "zentralopensource",
                 "repo": "zentral",
                 "stars": 884,
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T07:31:15.501Z",
+    "last_updated": "2026-09-20T07:54:29.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of tool you need to have in your Endpoint Detection and Response arsenal",
