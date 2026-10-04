@@ -19,7 +19,7 @@
             "open_issues": 3144,
             "owner": "wazuh",
             "repo": "wazuh",
-            "stars": 17071,
+            "stars": 17088,
             "topics": [
               "cloud-security",
               "compliance",
@@ -58,10 +58,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T22:47:58Z",
-            "open_issues": 252,
+            "open_issues": 254,
             "owner": "zeek",
             "repo": "zeek",
-            "stars": 8057,
+            "stars": 8058,
             "topics": [
               "bro",
               "dfir",
@@ -87,11 +87,11 @@
             "id": 8077402,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T15:53:38Z",
+            "last_commit": "2026-10-03T10:08:54Z",
             "open_issues": 2945,
             "owner": "MISP",
             "repo": "MISP",
-            "stars": 6563,
+            "stars": 6567,
             "topics": [
               "cti",
               "cybersecurity",
@@ -133,7 +133,7 @@
             "open_issues": 959,
             "owner": "cuckoosandbox",
             "repo": "cuckoo",
-            "stars": 5958,
+            "stars": 5959,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:26.006Z"
@@ -171,11 +171,11 @@
             "id": 126576769,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T01:21:43Z",
-            "open_issues": 79,
+            "last_commit": "2026-10-04T08:44:00Z",
+            "open_issues": 78,
             "owner": "Velocidex",
             "repo": "velociraptor",
-            "stars": 4289,
+            "stars": 4291,
             "topics": [
               "digital-forensics",
               "endpoint-discovery",
@@ -225,7 +225,7 @@
             "open_issues": 60,
             "owner": "bytedance",
             "repo": "Elkeid",
-            "stars": 2682,
+            "stars": 2683,
             "topics": [
               "cwpp",
               "edr",
@@ -253,7 +253,7 @@
             "open_issues": 43,
             "owner": "rabbitstack",
             "repo": "fibratus",
-            "stars": 2553,
+            "stars": 2554,
             "topics": [
               "blue-team",
               "detection-engineering",
@@ -370,8 +370,8 @@
             "id": 1146898804,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T08:31:25Z",
-            "open_issues": 73,
+            "last_commit": "2026-10-03T09:19:00Z",
+            "open_issues": 74,
             "owner": "Karib0u",
             "repo": "rustinel",
             "stars": 497,
@@ -623,7 +623,7 @@
                 "id": 44610249,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T03:42:14Z",
+                "last_commit": "2026-10-04T08:15:18Z",
                 "open_issues": 39,
                 "owner": "zentralopensource",
                 "repo": "zentral",
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T08:32:01.842Z",
+    "last_updated": "2026-10-04T08:44:25.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of tool you need to have in your Endpoint Detection and Response arsenal",
