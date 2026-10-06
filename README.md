@@ -1,17 +1,17 @@
 # Awesome Endpoint Detection and Response tools with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,340 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,354 | 🐛 106 | 📅 2026-09-02
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![License](https://img.shields.io/badge/LICENSE-CC_BY_4.0-00a2ff?\&style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
 
 Collection of tool you need to have in your EDR arsenal.
 
-* [Wazuh](https://github.com/wazuh/wazuh) ⭐ 17,123 | 🐛 3,192 | 🌐 C++ | 📅 2026-10-06 - The Open Source Security Platform - Wazuh helps you to gain deeper security visibility into your infrastructure by monitoring hosts at an operating system and application level. [Wazuh GIT](https://github.com/wazuh) : Lot of ressources for wazuh main software.
+* [Wazuh](https://github.com/wazuh/wazuh) ⭐ 17,126 | 🐛 3,200 | 🌐 C++ | 📅 2026-10-06 - The Open Source Security Platform - Wazuh helps you to gain deeper security visibility into your infrastructure by monitoring hosts at an operating system and application level. [Wazuh GIT](https://github.com/wazuh) : Lot of ressources for wazuh main software.
 * [Zeek](https://github.com/zeek/zeek) ⭐ 8,070 | 🐛 258 | 🌐 C++ | 📅 2026-10-05 - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
-* [MISP](https://github.com/MISP/MISP) ⭐ 6,572 | 🐛 2,946 | 🌐 PHP | 📅 2026-10-05 - MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform)
+* [MISP](https://github.com/MISP/MISP) ⭐ 6,573 | 🐛 2,946 | 🌐 PHP | 📅 2026-10-05 - MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform)
 * [Cuckoo](https://github.com/cuckoosandbox/cuckoo) ⚠️ Archived - Cuckoo Sandbox is the leading open source automated malware analysis system (MISP)
 * [Google GRR](https://github.com/google/grr) ⭐ 5,087 | 🐛 190 | 🌐 Python | 📅 2026-10-01 - GRR Rapid Response: remote live forensics for incident response.
-* [Velociraptor](https://github.com/Velocidex/velociraptor) ⭐ 4,302 | 🐛 76 | 🌐 Go | 📅 2026-10-05 : A tool for collecting host based state information using The Velociraptor Query Language (VQL) queries.
+* [Velociraptor](https://github.com/Velocidex/velociraptor) ⭐ 4,302 | 🐛 77 | 🌐 Go | 📅 2026-10-05 : A tool for collecting host based state information using The Velociraptor Query Language (VQL) queries.
 * [OpenEDR - By Comodo](https://github.com/ComodoSecurity/openedr) ⭐ 2,729 | 🐛 36 | 🌐 C++ | 📅 2026-05-23 : OpenEDR allows you to analyze what’s happening across your entire environment at base-security-event level.
 * [Elkeid](https://github.com/bytedance/Elkeid) ⭐ 2,684 | 🐛 60 | 🌐 Go | 📅 2026-05-11 : Elkeid is an open source solution that can meet the security requirements of various workloads such as hosts, containers and K8s, and serverless.
 * [Fibratus](https://github.com/rabbitstack/fibratus) ⭐ 2,553 | 🐛 43 | 🌐 Go | 📅 2026-09-28 : A modern tool for Windows kernel exploration and tracing with a focus on security.

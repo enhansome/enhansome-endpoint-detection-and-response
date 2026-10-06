@@ -15,11 +15,11 @@
             "id": 40556106,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T08:46:43Z",
-            "open_issues": 3192,
+            "last_commit": "2026-10-06T10:11:36Z",
+            "open_issues": 3200,
             "owner": "wazuh",
             "repo": "wazuh",
-            "stars": 17123,
+            "stars": 17126,
             "topics": [
               "cloud-security",
               "compliance",
@@ -91,7 +91,7 @@
             "open_issues": 2946,
             "owner": "MISP",
             "repo": "MISP",
-            "stars": 6572,
+            "stars": 6573,
             "topics": [
               "cti",
               "cybersecurity",
@@ -172,7 +172,7 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-10-05T03:20:14Z",
-            "open_issues": 76,
+            "open_issues": 77,
             "owner": "Velocidex",
             "repo": "velociraptor",
             "stars": 4302,
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T09:23:16.290Z",
+    "last_updated": "2026-10-06T10:19:41.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of tool you need to have in your Endpoint Detection and Response arsenal",
