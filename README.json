@@ -16,10 +16,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-11T02:46:45Z",
-            "open_issues": 3169,
+            "open_issues": 3191,
             "owner": "wazuh",
             "repo": "wazuh",
-            "stars": 17201,
+            "stars": 17220,
             "topics": [
               "cloud-security",
               "compliance",
@@ -57,11 +57,11 @@
             "id": 4930716,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T12:00:18Z",
-            "open_issues": 262,
+            "last_commit": "2026-10-12T08:12:59Z",
+            "open_issues": 263,
             "owner": "zeek",
             "repo": "zeek",
-            "stars": 8090,
+            "stars": 8093,
             "topics": [
               "bro",
               "dfir",
@@ -87,11 +87,11 @@
             "id": 8077402,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-11T09:11:26Z",
-            "open_issues": 2947,
+            "last_commit": "2026-10-12T09:12:14Z",
+            "open_issues": 2948,
             "owner": "MISP",
             "repo": "MISP",
-            "stars": 6590,
+            "stars": 6592,
             "topics": [
               "cti",
               "cybersecurity",
@@ -154,7 +154,7 @@
             "open_issues": 190,
             "owner": "google",
             "repo": "grr",
-            "stars": 5089,
+            "stars": 5086,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:26.006Z"
@@ -171,11 +171,11 @@
             "id": 126576769,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T05:00:05Z",
-            "open_issues": 77,
+            "last_commit": "2026-10-12T03:58:57Z",
+            "open_issues": 79,
             "owner": "Velocidex",
             "repo": "velociraptor",
-            "stars": 4332,
+            "stars": 4335,
             "topics": [
               "digital-forensics",
               "endpoint-discovery",
@@ -204,7 +204,7 @@
             "open_issues": 36,
             "owner": "ComodoSecurity",
             "repo": "openedr",
-            "stars": 2731,
+            "stars": 2730,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:26.006Z"
@@ -225,7 +225,7 @@
             "open_issues": 60,
             "owner": "bytedance",
             "repo": "Elkeid",
-            "stars": 2683,
+            "stars": 2682,
             "topics": [
               "cwpp",
               "edr",
@@ -253,7 +253,7 @@
             "open_issues": 43,
             "owner": "rabbitstack",
             "repo": "fibratus",
-            "stars": 2553,
+            "stars": 2552,
             "topics": [
               "blue-team",
               "detection-engineering",
@@ -370,7 +370,7 @@
             "id": 1146898804,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T13:45:45Z",
+            "last_commit": "2026-10-12T08:36:52Z",
             "open_issues": 65,
             "owner": "Karib0u",
             "repo": "rustinel",
@@ -421,7 +421,7 @@
                 "open_issues": 834,
                 "owner": "TheHive-Project",
                 "repo": "TheHive",
-                "stars": 3945,
+                "stars": 3946,
                 "topics": [
                   "analyzer",
                   "api",
@@ -627,7 +627,7 @@
                 "open_issues": 42,
                 "owner": "zentralopensource",
                 "repo": "zentral",
-                "stars": 887,
+                "stars": 886,
                 "topics": [
                   "apple-mdm",
                   "config-as-code",
@@ -667,7 +667,7 @@
                 "open_issues": 6,
                 "owner": "teoseller",
                 "repo": "osquery-attck",
-                "stars": 812,
+                "stars": 811,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:26.006Z"
@@ -688,7 +688,7 @@
                 "open_issues": 29,
                 "owner": "mwielgoszewski",
                 "repo": "doorman",
-                "stars": 622,
+                "stars": 621,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:26.006Z"
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T09:16:28.745Z",
+    "last_updated": "2026-10-12T09:42:41.840Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of tool you need to have in your Endpoint Detection and Response arsenal",
