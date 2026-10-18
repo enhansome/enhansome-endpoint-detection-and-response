@@ -15,11 +15,11 @@
             "id": 40556106,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T21:31:52Z",
-            "open_issues": 3128,
+            "last_commit": "2026-10-17T23:10:21Z",
+            "open_issues": 3116,
             "owner": "wazuh",
             "repo": "wazuh",
-            "stars": 17290,
+            "stars": 17314,
             "topics": [
               "cloud-security",
               "compliance",
@@ -61,7 +61,7 @@
             "open_issues": 263,
             "owner": "zeek",
             "repo": "zeek",
-            "stars": 8112,
+            "stars": 8114,
             "topics": [
               "bro",
               "dfir",
@@ -87,11 +87,11 @@
             "id": 8077402,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-17T06:23:47Z",
+            "last_commit": "2026-10-18T06:50:21Z",
             "open_issues": 2945,
             "owner": "MISP",
             "repo": "MISP",
-            "stars": 6600,
+            "stars": 6603,
             "topics": [
               "cti",
               "cybersecurity",
@@ -154,7 +154,7 @@
             "open_issues": 190,
             "owner": "google",
             "repo": "grr",
-            "stars": 5090,
+            "stars": 5091,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:26.006Z"
@@ -171,11 +171,11 @@
             "id": 126576769,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T14:28:21Z",
+            "last_commit": "2026-10-17T13:17:26Z",
             "open_issues": 85,
             "owner": "Velocidex",
             "repo": "velociraptor",
-            "stars": 4349,
+            "stars": 4351,
             "topics": [
               "digital-forensics",
               "endpoint-discovery",
@@ -294,7 +294,7 @@
             "open_issues": 31,
             "owner": "ION28",
             "repo": "BLUESPAWN",
-            "stars": 1343,
+            "stars": 1346,
             "topics": [
               "active-defense",
               "anti-virus",
@@ -421,7 +421,7 @@
                 "open_issues": 834,
                 "owner": "TheHive-Project",
                 "repo": "TheHive",
-                "stars": 3946,
+                "stars": 3947,
                 "topics": [
                   "analyzer",
                   "api",
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T07:10:32.386Z",
+    "last_updated": "2026-10-18T07:24:20.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of tool you need to have in your Endpoint Detection and Response arsenal",
