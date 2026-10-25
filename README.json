@@ -15,11 +15,11 @@
             "id": 40556106,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-24T03:35:25Z",
+            "last_commit": "2026-10-24T19:15:33Z",
             "open_issues": 3148,
             "owner": "wazuh",
             "repo": "wazuh",
-            "stars": 17390,
+            "stars": 17407,
             "topics": [
               "cloud-security",
               "compliance",
@@ -58,10 +58,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-23T18:05:29Z",
-            "open_issues": 257,
+            "open_issues": 258,
             "owner": "zeek",
             "repo": "zeek",
-            "stars": 8130,
+            "stars": 8132,
             "topics": [
               "bro",
               "dfir",
@@ -88,10 +88,10 @@
             "language": "PHP",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-23T14:55:51Z",
-            "open_issues": 2956,
+            "open_issues": 2955,
             "owner": "MISP",
             "repo": "MISP",
-            "stars": 6619,
+            "stars": 6618,
             "topics": [
               "cti",
               "cybersecurity",
@@ -154,7 +154,7 @@
             "open_issues": 190,
             "owner": "google",
             "repo": "grr",
-            "stars": 5103,
+            "stars": 5106,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:26.006Z"
@@ -172,7 +172,7 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-10-23T17:51:32Z",
-            "open_issues": 71,
+            "open_issues": 70,
             "owner": "Velocidex",
             "repo": "velociraptor",
             "stars": 4374,
@@ -204,7 +204,7 @@
             "open_issues": 36,
             "owner": "ComodoSecurity",
             "repo": "openedr",
-            "stars": 2738,
+            "stars": 2737,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:26.006Z"
@@ -225,7 +225,7 @@
             "open_issues": 60,
             "owner": "bytedance",
             "repo": "Elkeid",
-            "stars": 2691,
+            "stars": 2693,
             "topics": [
               "cwpp",
               "edr",
@@ -253,7 +253,7 @@
             "open_issues": 44,
             "owner": "rabbitstack",
             "repo": "fibratus",
-            "stars": 2557,
+            "stars": 2556,
             "topics": [
               "blue-team",
               "detection-engineering",
@@ -371,7 +371,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-20T07:31:49Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "Karib0u",
             "repo": "rustinel",
             "stars": 513,
@@ -421,7 +421,7 @@
                 "open_issues": 834,
                 "owner": "TheHive-Project",
                 "repo": "TheHive",
-                "stars": 3947,
+                "stars": 3948,
                 "topics": [
                   "analyzer",
                   "api",
@@ -600,7 +600,7 @@
                 "open_issues": 7,
                 "owner": "palantir",
                 "repo": "osquery-configuration",
-                "stars": 906,
+                "stars": 907,
                 "topics": [
                   "detection",
                   "incident-response",
@@ -623,7 +623,7 @@
                 "id": 44610249,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T14:58:04Z",
+                "last_commit": "2026-10-24T16:15:01Z",
                 "open_issues": 38,
                 "owner": "zentralopensource",
                 "repo": "zentral",
@@ -776,7 +776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T07:34:47.995Z",
+    "last_updated": "2026-10-25T07:47:44.187Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of tool you need to have in your Endpoint Detection and Response arsenal",
