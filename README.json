@@ -15,11 +15,11 @@
             "id": 40556106,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T08:19:34Z",
-            "open_issues": 3164,
+            "last_commit": "2026-10-28T08:54:37Z",
+            "open_issues": 3146,
             "owner": "wazuh",
             "repo": "wazuh",
-            "stars": 17443,
+            "stars": 17471,
             "topics": [
               "cloud-security",
               "compliance",
@@ -57,11 +57,11 @@
             "id": 4930716,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-27T07:42:43Z",
-            "open_issues": 257,
+            "last_commit": "2026-10-28T00:47:14Z",
+            "open_issues": 260,
             "owner": "zeek",
             "repo": "zeek",
-            "stars": 8140,
+            "stars": 8146,
             "topics": [
               "bro",
               "dfir",
@@ -87,11 +87,11 @@
             "id": 8077402,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-26T09:04:19Z",
-            "open_issues": 2967,
+            "last_commit": "2026-10-28T07:38:42Z",
+            "open_issues": 2968,
             "owner": "MISP",
             "repo": "MISP",
-            "stars": 6623,
+            "stars": 6626,
             "topics": [
               "cti",
               "cybersecurity",
@@ -171,11 +171,11 @@
             "id": 126576769,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T07:36:17Z",
-            "open_issues": 65,
+            "last_commit": "2026-10-28T08:08:25Z",
+            "open_issues": 64,
             "owner": "Velocidex",
             "repo": "velociraptor",
-            "stars": 4379,
+            "stars": 4383,
             "topics": [
               "digital-forensics",
               "endpoint-discovery",
@@ -204,7 +204,7 @@
             "open_issues": 36,
             "owner": "ComodoSecurity",
             "repo": "openedr",
-            "stars": 2738,
+            "stars": 2739,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:26.006Z"
@@ -249,11 +249,11 @@
             "id": 54714794,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T17:14:44Z",
-            "open_issues": 44,
+            "last_commit": "2026-10-27T19:54:08Z",
+            "open_issues": 45,
             "owner": "rabbitstack",
             "repo": "fibratus",
-            "stars": 2558,
+            "stars": 2560,
             "topics": [
               "blue-team",
               "detection-engineering",
@@ -353,7 +353,7 @@
             "open_issues": 71,
             "owner": "mozilla",
             "repo": "mig",
-            "stars": 1203,
+            "stars": 1202,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:26.006Z"
@@ -374,7 +374,7 @@
             "open_issues": 51,
             "owner": "Karib0u",
             "repo": "rustinel",
-            "stars": 515,
+            "stars": 519,
             "topics": [
               "blue-team",
               "detection-engineering",
@@ -421,7 +421,7 @@
                 "open_issues": 834,
                 "owner": "TheHive-Project",
                 "repo": "TheHive",
-                "stars": 3949,
+                "stars": 3950,
                 "topics": [
                   "analyzer",
                   "api",
@@ -571,7 +571,7 @@
                 "open_issues": 110,
                 "owner": "kolide",
                 "repo": "fleet",
-                "stars": 1098,
+                "stars": 1097,
                 "topics": [
                   "hacktoberfest",
                   "host-instrumentation",
@@ -599,7 +599,7 @@
                 "open_issues": 7,
                 "owner": "palantir",
                 "repo": "osquery-configuration",
-                "stars": 908,
+                "stars": 907,
                 "topics": [
                   "detection",
                   "incident-response",
@@ -622,11 +622,11 @@
                 "id": 44610249,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-25T16:45:26Z",
+                "last_commit": "2026-10-28T06:19:31Z",
                 "open_issues": 37,
                 "owner": "zentralopensource",
                 "repo": "zentral",
-                "stars": 889,
+                "stars": 888,
                 "topics": [
                   "apple-mdm",
                   "config-as-code",
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T08:20:54.170Z",
+    "last_updated": "2026-10-28T08:56:57.297Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of tool you need to have in your Endpoint Detection and Response arsenal",

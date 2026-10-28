@@ -1,24 +1,24 @@
 # Awesome Endpoint Detection and Response tools with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 525,330 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 525,945 | 🐛 105 | 📅 2026-09-02
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![License](https://img.shields.io/badge/LICENSE-CC_BY_4.0-00a2ff?\&style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
 
 Collection of tool you need to have in your EDR arsenal.
 
-* [Wazuh](https://github.com/wazuh/wazuh) ⭐ 17,443 | 🐛 3,164 | 🌐 C++ | 📅 2026-10-27 - The Open Source Security Platform - Wazuh helps you to gain deeper security visibility into your infrastructure by monitoring hosts at an operating system and application level. [Wazuh GIT](https://github.com/wazuh) : Lot of ressources for wazuh main software.
-* [Zeek](https://github.com/zeek/zeek) ⭐ 8,140 | 🐛 257 | 🌐 C++ | 📅 2026-10-27 - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
-* [MISP](https://github.com/MISP/MISP) ⭐ 6,623 | 🐛 2,967 | 🌐 PHP | 📅 2026-10-26 - MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform)
+* [Wazuh](https://github.com/wazuh/wazuh) ⭐ 17,471 | 🐛 3,146 | 🌐 C++ | 📅 2026-10-28 - The Open Source Security Platform - Wazuh helps you to gain deeper security visibility into your infrastructure by monitoring hosts at an operating system and application level. [Wazuh GIT](https://github.com/wazuh) : Lot of ressources for wazuh main software.
+* [Zeek](https://github.com/zeek/zeek) ⭐ 8,146 | 🐛 260 | 🌐 C++ | 📅 2026-10-28 - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
+* [MISP](https://github.com/MISP/MISP) ⭐ 6,626 | 🐛 2,968 | 🌐 PHP | 📅 2026-10-28 - MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform)
 * [Cuckoo](https://github.com/cuckoosandbox/cuckoo) ⚠️ Archived - Cuckoo Sandbox is the leading open source automated malware analysis system (MISP)
 * [Google GRR](https://github.com/google/grr) ⭐ 5,107 | 🐛 190 | 🌐 Python | 📅 2026-10-01 - GRR Rapid Response: remote live forensics for incident response.
-* [Velociraptor](https://github.com/Velocidex/velociraptor) ⭐ 4,379 | 🐛 65 | 🌐 Go | 📅 2026-10-26 : A tool for collecting host based state information using The Velociraptor Query Language (VQL) queries.
-* [OpenEDR - By Comodo](https://github.com/ComodoSecurity/openedr) ⭐ 2,738 | 🐛 36 | 🌐 C++ | 📅 2026-05-23 : OpenEDR allows you to analyze what’s happening across your entire environment at base-security-event level.
+* [Velociraptor](https://github.com/Velocidex/velociraptor) ⭐ 4,383 | 🐛 64 | 🌐 Go | 📅 2026-10-28 : A tool for collecting host based state information using The Velociraptor Query Language (VQL) queries.
+* [OpenEDR - By Comodo](https://github.com/ComodoSecurity/openedr) ⭐ 2,739 | 🐛 36 | 🌐 C++ | 📅 2026-05-23 : OpenEDR allows you to analyze what’s happening across your entire environment at base-security-event level.
 * [Elkeid](https://github.com/bytedance/Elkeid) ⭐ 2,694 | 🐛 60 | 🌐 Go | 📅 2026-05-11 : Elkeid is an open source solution that can meet the security requirements of various workloads such as hosts, containers and K8s, and serverless.
-* [Fibratus](https://github.com/rabbitstack/fibratus) ⭐ 2,558 | 🐛 44 | 🌐 Go | 📅 2026-10-26 : A modern tool for Windows kernel exploration and tracing with a focus on security.
+* [Fibratus](https://github.com/rabbitstack/fibratus) ⭐ 2,560 | 🐛 45 | 🌐 Go | 📅 2026-10-27 : A modern tool for Windows kernel exploration and tracing with a focus on security.
 * [Bluespawn](https://github.com/ION28/BLUESPAWN) ⭐ 1,349 | 🐛 31 | 🌐 C++ | 📅 2026-03-31 : An Active Defense and EDR software to empower Blue Teams.
 * [Whids](https://github.com/0xrawsec/whids) ⭐ 1,320 | 🐛 21 | 🌐 Go | 📅 2023-02-25 : EDR with artifact collection driven by detection.
 * [*Mozzila Mig \[Depreciated\]*](https://github.com/mozilla/mig) ⚠️ Archived : Distributed & real time digital forensics at the speed of the cloud.
-* [Rustinel](https://github.com/Karib0u/rustinel) ⭐ 515 | 🐛 51 | 🌐 Rust | 📅 2026-10-26 - Open-source endpoint detection engine for Windows and Linux using ETW, eBPF, Sigma, YARA, IOC matching, and ECS NDJSON alerts.
+* [Rustinel](https://github.com/Karib0u/rustinel) ⭐ 519 | 🐛 51 | 🌐 Rust | 📅 2026-10-26 - Open-source endpoint detection engine for Windows and Linux using ETW, eBPF, Sigma, YARA, IOC matching, and ECS NDJSON alerts.
 * [The Hives Project](https://thehive-project.org/) - A scalable, open source and free Security Incident Response Platform, tightly integrated with MISP (Malware Information Sharing Platform), designed to make life easier for SOCs, CSIRTs, CERTs and any information security practitioner dealing with security incidents that need to be investigated and acted upon swiftly.
   * [TheHive](https://github.com/TheHive-Project/TheHive) ⚠️ Archived - A Scalable, Open Source and Free Security Incident Response Platform
   * [Cortex](https://github.com/TheHive-Project/Cortex) ⭐ 1,637 | 🐛 174 | 🌐 Scala | 📅 2026-10-20 - A Powerful Observable Analysis and Active Response Engine
@@ -27,8 +27,8 @@ Collection of tool you need to have in your EDR arsenal.
   **Tool to extend Osquery** :
   * [AitBnB StreamAlert](https://github.com/airbnb/streamalert) ⭐ 2,893 | 🐛 89 | 🌐 Python | 📅 2023-10-23 - StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define.
   * [Fleet](https://github.com/kolide/fleet) ⚠️ Archived - A flexible control server for osquery fleets.
-  * [Palantir osquery-configuration](https://github.com/palantir/osquery-configuration) ⭐ 908 | 🐛 7 | 📅 2026-10-02 - A repository for using osquery for incident detection and response.
-  * [Zentral](https://github.com/zentralopensource/zentral) ⭐ 889 | 🐛 37 | 🌐 Python | 📅 2026-10-25 - Zentral is an Event Hub to gather, process, and monitor system events and link them to an inventory.
+  * [Palantir osquery-configuration](https://github.com/palantir/osquery-configuration) ⭐ 907 | 🐛 7 | 📅 2026-10-02 - A repository for using osquery for incident detection and response.
+  * [Zentral](https://github.com/zentralopensource/zentral) ⭐ 888 | 🐛 37 | 🌐 Python | 📅 2026-10-28 - Zentral is an Event Hub to gather, process, and monitor system events and link them to an inventory.
   * [Osquery-attck](https://github.com/teoseller/osquery-attck) ⭐ 812 | 🐛 6 | 📅 2023-05-11 - Mapping the MITRE ATT\&CK Matrix with Osquery.
   * [Doorman](https://github.com/mwielgoszewski/doorman) ⭐ 621 | 🐛 29 | 🌐 Python | 📅 2022-12-08 - An osquery fleet manager.
   * [Osquery Launcher](https://github.com/kolide/launcher) ⭐ 542 | 🐛 62 | 🌐 Go | 📅 2026-10-26 - Osquery launcher, autoupdater, and packager.
@@ -38,4 +38,4 @@ Collection of tool you need to have in your EDR arsenal.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
