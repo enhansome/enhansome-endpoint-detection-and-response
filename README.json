@@ -15,11 +15,11 @@
             "id": 40556106,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-01T18:59:05Z",
-            "open_issues": 3164,
+            "last_commit": "2026-11-03T09:05:43Z",
+            "open_issues": 3173,
             "owner": "wazuh",
             "repo": "wazuh",
-            "stars": 17534,
+            "stars": 17548,
             "topics": [
               "cloud-security",
               "compliance",
@@ -57,11 +57,11 @@
             "id": 4930716,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-01T17:00:42Z",
-            "open_issues": 261,
+            "last_commit": "2026-11-03T08:15:46Z",
+            "open_issues": 273,
             "owner": "zeek",
             "repo": "zeek",
-            "stars": 8165,
+            "stars": 8167,
             "topics": [
               "bro",
               "dfir",
@@ -87,11 +87,11 @@
             "id": 8077402,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-02T08:32:27Z",
+            "last_commit": "2026-11-02T15:46:59Z",
             "open_issues": 2972,
             "owner": "MISP",
             "repo": "MISP",
-            "stars": 6637,
+            "stars": 6638,
             "topics": [
               "cti",
               "cybersecurity",
@@ -154,7 +154,7 @@
             "open_issues": 190,
             "owner": "google",
             "repo": "grr",
-            "stars": 5109,
+            "stars": 5110,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:26.006Z"
@@ -175,7 +175,7 @@
             "open_issues": 64,
             "owner": "Velocidex",
             "repo": "velociraptor",
-            "stars": 4405,
+            "stars": 4409,
             "topics": [
               "digital-forensics",
               "endpoint-discovery",
@@ -204,7 +204,7 @@
             "open_issues": 36,
             "owner": "ComodoSecurity",
             "repo": "openedr",
-            "stars": 2740,
+            "stars": 2739,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:26.006Z"
@@ -225,7 +225,7 @@
             "open_issues": 60,
             "owner": "bytedance",
             "repo": "Elkeid",
-            "stars": 2696,
+            "stars": 2697,
             "topics": [
               "cwpp",
               "edr",
@@ -249,8 +249,8 @@
             "id": 54714794,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T21:01:54Z",
-            "open_issues": 45,
+            "last_commit": "2026-11-02T19:31:09Z",
+            "open_issues": 44,
             "owner": "rabbitstack",
             "repo": "fibratus",
             "stars": 2565,
@@ -294,7 +294,7 @@
             "open_issues": 31,
             "owner": "ION28",
             "repo": "BLUESPAWN",
-            "stars": 1350,
+            "stars": 1349,
             "topics": [
               "active-defense",
               "anti-virus",
@@ -325,7 +325,7 @@
             "open_issues": 21,
             "owner": "0xrawsec",
             "repo": "whids",
-            "stars": 1319,
+            "stars": 1320,
             "topics": [
               "dfir",
               "edr",
@@ -421,7 +421,7 @@
                 "open_issues": 834,
                 "owner": "TheHive-Project",
                 "repo": "TheHive",
-                "stars": 3950,
+                "stars": 3949,
                 "topics": [
                   "analyzer",
                   "api",
@@ -460,7 +460,7 @@
                 "open_issues": 174,
                 "owner": "TheHive-Project",
                 "repo": "Cortex",
-                "stars": 1640,
+                "stars": 1641,
                 "topics": [
                   "analysis",
                   "analyzer",
@@ -596,10 +596,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T14:25:00Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "palantir",
                 "repo": "osquery-configuration",
-                "stars": 908,
+                "stars": 909,
                 "topics": [
                   "detection",
                   "incident-response",
@@ -622,7 +622,7 @@
                 "id": 44610249,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T08:08:02Z",
+                "last_commit": "2026-11-02T15:54:08Z",
                 "open_issues": 32,
                 "owner": "zentralopensource",
                 "repo": "zentral",
@@ -704,8 +704,8 @@
                 "id": 90072296,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-01T00:24:05Z",
-                "open_issues": 64,
+                "last_commit": "2026-11-02T18:06:00Z",
+                "open_issues": 62,
                 "owner": "kolide",
                 "repo": "launcher",
                 "stars": 542,
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T09:55:20.198Z",
+    "last_updated": "2026-11-03T09:59:58.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of tool you need to have in your Endpoint Detection and Response arsenal",
