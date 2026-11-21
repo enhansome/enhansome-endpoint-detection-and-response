@@ -15,11 +15,11 @@
             "id": 40556106,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T10:20:28Z",
-            "open_issues": 2729,
+            "last_commit": "2026-11-21T07:57:23Z",
+            "open_issues": 2745,
             "owner": "wazuh",
             "repo": "wazuh",
-            "stars": 17837,
+            "stars": 17849,
             "topics": [
               "cloud-security",
               "compliance",
@@ -57,11 +57,11 @@
             "id": 4930716,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T09:05:24Z",
-            "open_issues": 265,
+            "last_commit": "2026-11-21T00:37:53Z",
+            "open_issues": 267,
             "owner": "zeek",
             "repo": "zeek",
-            "stars": 8267,
+            "stars": 8269,
             "topics": [
               "bro",
               "dfir",
@@ -88,10 +88,10 @@
             "language": "PHP",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-20T10:20:26Z",
-            "open_issues": 2979,
+            "open_issues": 2984,
             "owner": "MISP",
             "repo": "MISP",
-            "stars": 6683,
+            "stars": 6687,
             "topics": [
               "cti",
               "cybersecurity",
@@ -133,7 +133,7 @@
             "open_issues": 959,
             "owner": "cuckoosandbox",
             "repo": "cuckoo",
-            "stars": 5955,
+            "stars": 5956,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:26.006Z"
@@ -154,7 +154,7 @@
             "open_issues": 189,
             "owner": "google",
             "repo": "grr",
-            "stars": 5114,
+            "stars": 5115,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:26.006Z"
@@ -172,10 +172,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-11-20T07:38:57Z",
-            "open_issues": 65,
+            "open_issues": 66,
             "owner": "Velocidex",
             "repo": "velociraptor",
-            "stars": 4489,
+            "stars": 4495,
             "topics": [
               "digital-forensics",
               "endpoint-discovery",
@@ -204,7 +204,7 @@
             "open_issues": 36,
             "owner": "ComodoSecurity",
             "repo": "openedr",
-            "stars": 2751,
+            "stars": 2752,
             "topics": []
           },
           "first_seen": "2026-08-28T14:34:26.006Z"
@@ -225,7 +225,7 @@
             "open_issues": 59,
             "owner": "bytedance",
             "repo": "Elkeid",
-            "stars": 2703,
+            "stars": 2704,
             "topics": [
               "cwpp",
               "edr",
@@ -249,7 +249,7 @@
             "id": 54714794,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T16:36:28Z",
+            "last_commit": "2026-11-20T23:00:17Z",
             "open_issues": 46,
             "owner": "rabbitstack",
             "repo": "fibratus",
@@ -325,7 +325,7 @@
             "open_issues": 21,
             "owner": "0xrawsec",
             "repo": "whids",
-            "stars": 1322,
+            "stars": 1323,
             "topics": [
               "dfir",
               "edr",
@@ -370,8 +370,8 @@
             "id": 1146898804,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T09:32:06Z",
-            "open_issues": 47,
+            "last_commit": "2026-11-20T13:09:33Z",
+            "open_issues": 46,
             "owner": "Karib0u",
             "repo": "rustinel",
             "stars": 540,
@@ -421,7 +421,7 @@
                 "open_issues": 834,
                 "owner": "TheHive-Project",
                 "repo": "TheHive",
-                "stars": 3950,
+                "stars": 3951,
                 "topics": [
                   "analyzer",
                   "api",
@@ -460,7 +460,7 @@
                 "open_issues": 174,
                 "owner": "TheHive-Project",
                 "repo": "Cortex",
-                "stars": 1649,
+                "stars": 1650,
                 "topics": [
                   "analysis",
                   "analyzer",
@@ -622,8 +622,8 @@
                 "id": 44610249,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T06:43:46Z",
-                "open_issues": 34,
+                "last_commit": "2026-11-20T14:51:45Z",
+                "open_issues": 36,
                 "owner": "zentralopensource",
                 "repo": "zentral",
                 "stars": 892,
@@ -775,7 +775,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T10:26:08.104Z",
+    "last_updated": "2026-11-21T10:09:21.257Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of tool you need to have in your Endpoint Detection and Response arsenal",
